@@ -1,9 +1,5 @@
 # GRADUATE-EMPLOYABILITY-RATE
 
-[https://www.google.com/imgres?imgurl=https://journalistsresource.org/wp-content/uploads/2015/08/Students-posing-in-graduation-gowns-static.studentloans.gov_.jpg&imgrefurl=https://journalistsresource.org/economics/higher-education-affects-wealth-race/&h=372&w=620&tbnid=P_NMlY9__9YCzM&source=sa.im&tbnh=372&tbnw=620&usg=AI4_-kQm-AWu-EvkrgWG9mc9PNuja46bCQ&vet=1&docid=14gZgskanwKZEM](url)
-Conducted an end-to-end data analysis to identify factors influencing graduate employment outcomes. Cleaned and transformed data in Excel, performed regression analysis to predict employability, and visualized insights in Power BI. Findings revealed that project completed and IQ levels were strong predictors of employability success.
-
-
 ## Project Overview
 
 This project explores the key factors that influence graduate employability, using a dataset obtained from Kaggle
@@ -29,7 +25,7 @@ Source: Kaggle – Graduate Employability Dataset
 
 Records: ~10,000 graduates
 
-####Key Features:
+#### Key Features:
 
 College ID
 
