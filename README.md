@@ -63,7 +63,8 @@ CGPA trends among employed vs unemployed graduates
 
 Skill correlation analysis with employment status
 
-##Tools & Skills Demonstrated
+## Tools & Skills Demonstrated
+
 | Tool                       | Application                                               |
 | -------------------------- | --------------------------------------------------------- |
 | **Excel**                  | Data cleaning, transformation, pivot analysis, regression |
@@ -124,7 +125,7 @@ In simple terms, your independent variables collectively explain employability m
 
 ## Key Insights
 
-###Significant Predictors
+### Significant Predictors
 
 ✅ CGPA
 
@@ -136,7 +137,7 @@ In simple terms, your independent variables collectively explain employability m
 
 These have p-values < 0.05, meaning they significantly affect employability.
 
-###Non-significant Predictors
+### Non-significant Predictors
 
 ❌ Academic Performance
 
