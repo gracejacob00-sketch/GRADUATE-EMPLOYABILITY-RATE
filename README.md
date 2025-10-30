@@ -1,5 +1,7 @@
 # GRADUATE-EMPLOYABILITY-RATE
 
+![Image](https://github.com/user-attachments/assets/9342284a-f836-4238-96f3-a0eb288b440f)
+
 ## Project Overview
 
 This project explores the key factors that influence graduate employability, using a dataset obtained from Kaggle
